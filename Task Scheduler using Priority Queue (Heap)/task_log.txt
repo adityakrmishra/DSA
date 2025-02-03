@@ -1,0 +1,3 @@
+Completed Task: Submit assignment, Priority: 1
+Completed Task: Pay electricity bill, Priority: 2
+Completed Task: Buy groceries, Priority: 3
